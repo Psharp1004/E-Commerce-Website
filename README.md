@@ -1,6 +1,8 @@
 # E-Commerce-Website
 CS4HC3 Project
+
 Instructions
+
 The homepage of our website is index.html. This is the page a customer would see on arrival to our website. It contains the navigation bar that contains features of the website which would be present on all pages.
 Navigation to shop-list.html is done through the header by typing into the search bar and clicking the Go! button.
 It can also be accomplished by selecting the Laptops category from the Computers dropdown within the header.
