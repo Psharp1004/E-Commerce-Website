@@ -14,3 +14,8 @@ Selecting a category that is outside of the Laptops column will bring you to sho
 Selecting a product image will bring you to its product page, for the placeholder products this is product-details-g.html and for the real product it is product-details.html.
 
 Hovering over a product will bring up several clickable icons that add the item to the cart, gives more information about an item, and adds the product to the wishlist. Clicking more info brings up an overlay with additional information and a way to access the product page.
+
+![alt text](https://github.com/Psharp1004/E-Commerce-Website/blob/master/screenshot1.JPG)
+![alt text](https://github.com/Psharp1004/E-Commerce-Website/blob/master/screenshot2.JPG)
+![alt text](https://github.com/Psharp1004/E-Commerce-Website/blob/master/screenshot3.JPG)
+![alt text](https://github.com/Psharp1004/E-Commerce-Website/blob/master/screenshot4.JPG)
