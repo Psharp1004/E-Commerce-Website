@@ -18,10 +18,10 @@ Hovering over a product will bring up several clickable icons that add the item 
 ## Home Page
 ![alt text](https://github.com/Psharp1004/E-Commerce-Website/blob/master/screenshot1.JPG)
 
-## Shop-List Grid View
+## Shop-List List View
 ![alt text](https://github.com/Psharp1004/E-Commerce-Website/blob/master/screenshot2.JPG)
 
-## Shop-List List View
+## Shop-List Grid View
 ![alt text](https://github.com/Psharp1004/E-Commerce-Website/blob/master/screenshot3.JPG)
 
 ## Product Page
