@@ -1,6 +1,11 @@
 # E-Commerce-Website
 CS4HC3 Project
 
+This is an ecommerce website (ABC.com) written in HTML, CSS, Javascript/JQuery and Bootstrap. It is focused on having an interface that is both appealing and user-friendly.
+
+## Tools
+Sublime Text
+
 ## Instructions
 The homepage of our website is index.html. This is the page a customer would see on arrival to our website. It contains the navigation bar that contains features of the website which would be present on all pages.
 
