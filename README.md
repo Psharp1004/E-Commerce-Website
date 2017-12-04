@@ -6,7 +6,7 @@ This is an ecommerce website (ABC.com) written in HTML, CSS, Javascript/JQuery a
 ## Tools
 Sublime Text
 
-## Instructions
+## Instruction
 The homepage of our website is index.html. This is the page a customer would see on arrival to our website. It contains the navigation bar that contains features of the website which would be present on all pages.
 
 Navigation to shop-list.html is done through the header by typing into the search bar and clicking the Go! button.
