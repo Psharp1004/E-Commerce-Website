@@ -1,7 +1,7 @@
 # E-Commerce-Website
 CS4HC3 Project
 
-Instructions
+## Instructions
 
 The homepage of our website is index.html. This is the page a customer would see on arrival to our website. It contains the navigation bar that contains features of the website which would be present on all pages.
 
@@ -15,7 +15,14 @@ Selecting a product image will bring you to its product page, for the placeholde
 
 Hovering over a product will bring up several clickable icons that add the item to the cart, gives more information about an item, and adds the product to the wishlist. Clicking more info brings up an overlay with additional information and a way to access the product page.
 
+## Home Page
 ![alt text](https://github.com/Psharp1004/E-Commerce-Website/blob/master/screenshot1.JPG)
+
+## Shop-List Grid View
 ![alt text](https://github.com/Psharp1004/E-Commerce-Website/blob/master/screenshot2.JPG)
+
+## Shop-List List View
 ![alt text](https://github.com/Psharp1004/E-Commerce-Website/blob/master/screenshot3.JPG)
+
+## Product Page
 ![alt text](https://github.com/Psharp1004/E-Commerce-Website/blob/master/screenshot4.JPG)
